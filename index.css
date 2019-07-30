@@ -55,7 +55,7 @@ html {
   }
   
   .player__button:focus {
-    border-color: #ffc600;
+    border-color: #3b0b7a;
   }
   
   .player__slider {
@@ -99,7 +99,7 @@ html {
   
   .progress__filled {
     width: 50%;
-    background: #ffc600;
+    background: #3b0b7a;
     flex: 0;
     flex-basis: 50%;
   }
@@ -131,7 +131,7 @@ html {
     height: 15px;
     width: 15px;
     border-radius: 50px;
-    background: #ffc600;
+    background: #3b0b7a;
     cursor: pointer;
     -webkit-appearance: none;
     margin-top: -3.5px;
@@ -157,7 +157,7 @@ html {
     height: 15px;
     width: 15px;
     border-radius: 50px;
-    background: #ffc600;
+    background: #3b0b7a;
     cursor: pointer;
   }
 
